@@ -37,4 +37,4 @@ _G.WantedRarities = {"Heavenly","Legendary","Exotic","","",""} -- Put the name o
    - Time
 
 --]]
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/Aidez/elemental_awakening/main/spin_farm_and_autospin'),true))()
+
